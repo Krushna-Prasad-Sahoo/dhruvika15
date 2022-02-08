@@ -1,6 +1,8 @@
 ## 💫About Me :
 
-I am <strong>Dhruvika Sharma</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
+- I am <strong>Dhruvika Sharma</strong> enthusiastic Computer Science Student, who loves learning new skills. I started my programming journey with a simple "Hello World" program in C and found my love for programming along the way. Then I started learning Web Development and realized how much I love learning new technologies and using them to solve real world problems.
+
+- I love using these technologies to build unique projects. You can check my Technical Blogs [here](https://medium.com/@https://medium.com/@dhruvikasharma20) where I explain the whole workflow of my projects in detail.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvika-sharma15/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dhruvikasharma20) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Dhruvik58858488) 
@@ -23,7 +25,7 @@ I am <strong>Dhruvika Sharma</strong> enthusiastic Computer Science Student, who
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 
